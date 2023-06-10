@@ -1,0 +1,22 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.col-md-12{
+    margin: 0 auto;
+    background-color: lavender;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    padding-top: 100px;
+   border-radius: 20px;
+}
+.sub{
+    color: firebrick;
+}
+input{
+    border-radius: 10px;
+    border-color: lavender;
+}
